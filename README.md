@@ -3,6 +3,7 @@
 ## Pipeline
 
 Here's what I plan to do:
+
 1. Do the wireframe in Sketch
 2. Do the interactions in Framer
 3. ...
