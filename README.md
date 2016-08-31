@@ -28,3 +28,7 @@ See [TODOS.md](TODOS.md)
 Well, please do :-)
 
 This prototype is placed upon the [session](https://www.socrates-conference.de/wiki/2016/session_socrates-app) on building it in the 2016 conference.
+
+## Licenses
+
+- Line Icons provided by Situ, free for use, see https://www.behance.net/gallery/10712283/Line-icon-set-for-UI-more-Infinitely-scalable
